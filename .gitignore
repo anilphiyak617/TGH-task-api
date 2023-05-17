@@ -1,0 +1,26 @@
+# Node.js dependencies
+/node_modules
+
+# Environment variables
+.env
+
+# Compiled output
+/dist
+/build
+
+# Log files
+/*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Editor-specific files
+.vscode
+.idea
+
+# Optional: configuration files specific to your development setup
+# .eslintrc
+# .prettierrc
+# .env.example (if you have an example environment file)
+
